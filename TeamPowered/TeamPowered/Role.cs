@@ -8,5 +8,7 @@ namespace TeamPowered
 {
     class Role
     {
+
+        int new = 4;
     }
 }
