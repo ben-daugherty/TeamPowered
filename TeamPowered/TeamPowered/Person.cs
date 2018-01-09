@@ -10,5 +10,6 @@ namespace TeamPowered
     {
         public string Name { get; set; }
         public string Address { get; set; }
+        int newchange = 6;
     }
 }
